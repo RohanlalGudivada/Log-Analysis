@@ -40,7 +40,7 @@ The tool also saves the analyzed data into a CSV file (`log_analysis_results.csv
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/RohanlalGudivada/Log-Analysis>
 cd <repository-folder>
 ```
 
